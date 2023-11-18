@@ -12,6 +12,13 @@
 
 ## Data
 
+|Variable   |Description                                         |
+|-----------|----------------------------------------------------|
+|Year       |November of each year                               |
+|Anomaly    |The departure from the long-term average temperature|
+
+
+
 ## Figures
 
 ## References
