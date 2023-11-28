@@ -10,7 +10,7 @@
 ### Installing Code
 We used R version 4.1.3. The packages we used were forecast and tidyverse.
 ### Using Code
-
+We will model global temperature using two methods of time-series forecasting in R. In our first modeling approach, we will conduct simple linear regression (SLR) with the year as the explanatory variable and the temperature as the independent variable. Our second modeling approach will involve moving-average analysis through the use of the ARIMA (Autoregressive Integrated Moving Averages) model. A moving average is an analysis of data conducted by creating a series of averages of different subsets of the full time series dataset. Both methods can be used to predict or forecast values outside the range of the original dataset, but the ARIMA model is a more widely used approach for time-series data. In the context of our project, both the regression approach and the ARIMA approach can be used to predict future global temperatures. We will subset the data to include only pre-2020 temperatures and use both models to forecast 2020-2022 temperatures. The model that returns more accurate values for 2020, 2021, and 2022 temperatures (which are included in the overall dataset and will be used to validate our model) will then be used to forecast post-2022 values.
 
 ## Data
 
