@@ -18,6 +18,8 @@ We used R version 4.1.3. The packages we used were forecast and tidyverse.
 |Year       |November of each year                               |
 |Anomaly    |The departure from the long-term average temperature|
 
+This data is from the National Oceanic and Atmospheric Administration’s (NOAA’s) National Centers for Environmental Information (NCEI) and uses a reference value equivalent to the long-term average temperature of 1901 through 2000 to determine the observed temperature anomalies.
+
 
 
 ## Figures
