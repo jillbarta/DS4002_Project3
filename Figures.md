@@ -9,3 +9,13 @@
 
 ### Full Data Plot
 ![full_data_plot](https://github.com/jillbarta/DS4002_Project3/assets/123209044/92382c76-528a-4d0d-a64d-fa7a9bce05b3)
+
+
+### Forecasts from ARIMA 2020-2022
+![Forecasted vals for 2020 through 2022](https://github.com/jillbarta/DS4002_Project3/assets/123209044/b15f1ae3-ae60-4bda-855d-ac04a359d888)
+
+
+### Forecasts from ARIMA 2023-2033
+![Forecasted vals for 2023 through 2033](https://github.com/jillbarta/DS4002_Project3/assets/123209044/9dfcfbce-bb79-427b-90e3-bbfb69702b65)
+
+
