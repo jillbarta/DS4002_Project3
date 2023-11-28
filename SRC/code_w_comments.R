@@ -67,3 +67,5 @@ forecastedValues2 <- forecast(fit2, 10)
 # Plot forecasted values for 2023-2033
 plot(forecastedValues2)
 
+
+
