@@ -8,6 +8,7 @@
 
 ## SRC
 ### Installing Code
+We used R version 4.1.3. The packages we used were 
 ### Using Code
 
 ## Data
@@ -20,6 +21,11 @@
 
 
 ## Figures
+### Forecasts from ARIMA 2020-2022
+![Forecasted vals for 2020 through 2022 (1)](https://github.com/jillbarta/DS4002_Project3/assets/123209044/c3eb721f-265d-469d-9a57-b356bc620b31)
+
+### Forecasts from ARIMA 2023-2033
+![Forecasted vals for 2023 through 2033 (2)](https://github.com/jillbarta/DS4002_Project3/assets/123209044/63472468-56c3-43a3-be7c-daf7e122a83e)
 
 ## References
 National Centers for Environmental Information, “Global Surface Temperature Anomalies - Background Information,” ncei.noaa.gov. https://www.ncei.noaa.gov/access/monitoring/global-  temperature-anomalies/ 
